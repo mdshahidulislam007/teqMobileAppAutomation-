@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AppiumTeqApp">
+
+
+	<test name="Teq App Test">
+
+		<classes>
+			<class name="com.TeqApp.testCases.TC_01_TripsTest" />
+		</classes>
+
+	</test>
+
+</suite>

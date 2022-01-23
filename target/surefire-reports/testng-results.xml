@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T14:46:40 BDT" name="AppiumTeqApp" finished-at="2022-01-23T14:47:54 BDT" duration-ms="74324">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T14:46:40 BDT" name="Teq App Test" finished-at="2022-01-23T14:47:54 BDT" duration-ms="74324">
+      <class name="com.TeqApp.testCases.TC_01_TripsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TeqApp.testCases.TC_01_TripsTest@d83da2e]" started-at="2022-01-23T14:46:40 BDT" name="setup" finished-at="2022-01-23T14:46:54 BDT" duration-ms="14230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tripTest()[pri:0, instance:com.TeqApp.testCases.TC_01_TripsTest@d83da2e]" started-at="2022-01-23T14:46:54 BDT" name="tripTest" finished-at="2022-01-23T14:47:54 BDT" duration-ms="60042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripTest -->
+      </class> <!-- com.TeqApp.testCases.TC_01_TripsTest -->
+    </test> <!-- Teq App Test -->
+  </suite> <!-- AppiumTeqApp -->
+</testng-results>
